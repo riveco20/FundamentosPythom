@@ -1,0 +1,4 @@
+Nombre	Apellido	Edad	Sexo	Telefono	Correo
+Jesus	Moreno	28	Masculino	3002483068	jsusMoreno@gmail.com
+Richard	Vellojin	29	Masculino	3046760007	richardvellojin@gmail.com
+Sandy	Salas	26	Femenino	3116251140	sanduna_14@hotmail.com
